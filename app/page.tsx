@@ -24,7 +24,7 @@ export default function Home() {
       </div>
       <div className="hero-visual" aria-label="Mascote Disk Limpeza ao lado de equipamento profissional">
         <div className="spray-outline" aria-hidden="true" /><div className="trust-card"><strong>100%</strong><span>cuidado<br />profissional</span></div>
-        <img src="/mascote-disk-limpeza.png" alt="Mascote da Disk Limpeza" />
+        <img src="/mascote-disk-limpeza-v2.png" alt="Mascote da Disk Limpeza" />
       </div>
     </section>
 
